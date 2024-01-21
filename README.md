@@ -15,7 +15,7 @@ Keys are the available options. Each options has a sub dict holding two key/valu
   - key/value pair to keep updated the shared percentage{'per':0}.
 
     
-5 functions: 
+5 functions:  
 
 - main() -> Gets the given dictionary as a argument (It is used for display option and to be passed to the user_sele() function). User inp, validation structure and display are within this function.
   
