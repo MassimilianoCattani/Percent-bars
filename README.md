@@ -1,11 +1,11 @@
-## Percent-bars
+# Percent-bars
 Calculate shared percentage of each element.
 
 - User select one of the option.
 - Each option gets updated: 'n' times gets picked by the user and relative shared percentage.
 - Display updated data and relative % bar of each element.
 
-# Structure
+## Structure
 
 Dictionary:
 
