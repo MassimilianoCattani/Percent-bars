@@ -24,4 +24,4 @@ Keys are the available options. Each options has a sub dict holding two key/valu
   
 - update_per() -> (Args: updated dict, total_inp()) Calculate the percentage of each option based on its own number of selection ('n') in relation to the total number of selections. Return updated dict ({'per': 20}).
 
-- display() -> (Args: updated dict, total_inp()) Use total_inp() just for display. Picks data from updated dictionary and display selected info in a formatted way.  
+- display() -> (Args: updated dict, total_inp()) Use total_inp() just for display. Picks data from updated dictionary and displays selected info in a formatted way.  
