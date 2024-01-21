@@ -1,4 +1,4 @@
-# Percent-bars
+## Percent-bars
 Calculate shared percentage of each element.
 
 - User select one of the option.
