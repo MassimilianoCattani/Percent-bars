@@ -9,7 +9,7 @@ Calculate shared percentage of each element.
 
 Dictionary:
 
-Keys are the available options. Each options has a sub dict holdong two key/value pairs:
+Keys are the available options. Each options has a sub dict holding two key/value pairs:
   - key/value pair to hold the number of time the option has been selected {'n':0}.
   - key/value pair to keep updated the shared percentage{'per':0}.
 
